@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KalkulatorKPKFPB</string>
+    <string name="bilangan_1">Bilangan 1</string>
+    <string name="bilangan_2">Bilangan 2</string>
+    <string name="contoh_16">  misal: 16</string>
+    <string name="contoh_24">  misal: 24</string>
+    <string name="hitung_fpb_dan_kpk">Hitung FPB dan KPK</string>
+    <string name="menghitung_fpb_dan_kpk_menggunakan_algoritma_euclidean">Menghitung FPB dan KPK menggunakan Algoritma Euclidean</string>
+    <string name="fpb_faktor_persekutuan_besar">FPB: Faktor Persekutuan Besar</string>
+    <string name="kpk_kelipatan_persekutuan_kecil">KPK: Kelipatan Persekutuan Kecil</string>
+    <string name="contoh_8">\@string/contoh_8</string>
+    <string name="masukkan_angka">masukkan_angka</string>
+</resources>
